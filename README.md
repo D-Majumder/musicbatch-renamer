@@ -1,10 +1,10 @@
 # MusicBatch Renamer
 
-\*\*MusicBatch Renamer\*\* is a free, open-source Windows utility that organises music libraries through safe alphabetical renaming. It includes a graphical interface, live preview, collision detection, configurable numbering, and CSV-based undo support. Built with PowerShell and Windows Forms, it runs locally without third-party dependencies and never intentionally modifies audio contents.
+MusicBatch Renamer is a free, open-source Windows utility that organises music libraries through safe alphabetical renaming. It includes a graphical interface, live preview, collision detection, configurable numbering, and CSV-based undo support. Built with PowerShell and Windows Forms, it runs locally without third-party dependencies and never intentionally modifies audio contents.
 
 
 
-\*\*Built for music lovers who want a clean, consistently numbered offline music collection.\*\*
+Built for music lovers who want a clean, consistently numbered offline music collection.
 
 A free, local-only Windows utility for alphabetically renumbering music files. Includes a graphical interface, preview, collision checks, CSV undo manifests, and a command-line preview mode.
 
