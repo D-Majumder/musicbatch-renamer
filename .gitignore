@@ -1,0 +1,18 @@
+# Local media and generated undo maps
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.wma
+*.aiff
+*.aif
+*.opus
+MusicBatchRenamer-undo-*.csv
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
